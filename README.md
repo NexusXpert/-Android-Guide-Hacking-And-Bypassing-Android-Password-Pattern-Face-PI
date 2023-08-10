@@ -69,3 +69,4 @@ The bug can be fixed by changing the way that the Android password system handle
 Additional Information:
 
 I hope this bug report is helpful. Please let me know if you have any questions.
+![76d45359b82fb94e068816a6fc9d667c](https://github.com/NexusXpert/-Android-Guide-Hacking-And-Bypassing-Android-Password-Pattern-Face-PI/assets/141859828/531b6200-19e5-469b-93eb-74ea1335a68b)
