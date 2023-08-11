@@ -129,38 +129,8 @@ sudo apt-get install android-tools-adb
 Hit [Enter]
 3. Follow the instructions until everything is installed.
 
-INSTRUCTIONS:
-1. Connect you (turned on) Phone to the Computer via USB.
-2. Open a terminal window.
-3. Type:
-Code:
-adb devices
-adb shell
-cd data/system
-su
-rm *.key
-4. Done...Now You Just Have To Reboot.
-
-Note : If You See The Gesture Pattern Grid Or Password After Restarting, Don't Worry. Just Try Any Random Pattern Or Password And it Should Unlock.
 
 ---------------------------------------------------------------------------------------
-
-
-METHOD 5
-Solution For Everyone Via Adb - SQL Command :
-
-INSTRUCTIONS:
-=>Type This Commands Separated In Your Terminal (CMD Prompt) :
-Code:
-adb shell
-cd /data/data/com.android.providers.settings/databases
-sqlite3 settings.db
-update system set value=0 where name='lock_pattern_autolock';
-update system set value=0 where name='lockscreen.lockedoutpermanently';
-.quit
-=>Now You Just Have To Reboot.
-
-Note : If You See The Gesture Pattern Grid Or Password After Restarting, Don't Worry. Just Try Any Random Pattern Or Password And it Should Unlock.
 
 ----------------------------------------------------------------------------------------
 
