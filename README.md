@@ -24,7 +24,7 @@ log-files.xml
 
 -------------------------------------------------------------------------------------------------------------------------
 
-I hope this bug report is helpful. Please let me know if you have any questions.
+
 ![REAL GHOST (2)](https://github.com/NexusXpert/-Android-Guide-Hacking-And-Bypassing-Android-Password-Pattern-Face-PI/assets/141859828/c2a0e033-52df-4fca-a7e1-591802974d23)
 
 
