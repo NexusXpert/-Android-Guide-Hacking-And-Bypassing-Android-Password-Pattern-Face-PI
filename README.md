@@ -63,37 +63,6 @@ Unlock android Lock Screen password, pin or pattern using custom recovery No Dat
 how android lock screens are bypassed! I For educational purposes only https://youtu.be/U3hO-6kKXyw
 
 -----------------------------------------------------------------------------------------
-METHOD 2
-:
-
-INSTRUCTIONS:
-
-Primary Step for all method:
-Download & Extract to anywhere - Bypass Security Hack (Download from attachments)
-Open SQLite Database Browser 2.0.exe in SQLite Database Browser.
-Run pull settings.db.cmd inside By-pass security Hacks folder to pull out the setting file out of your phone.
-Drag settings.db and drop to SQLite Database Browser 2.0.exe program.
-Navigate to Browse data tab, At table there, click to list down the selection & selete secure
-
-Instruction To Remove Pattern Lock:
-Now, find lock_pattern_autolock, Delete Record
-Close & save database
-Run push settings.db.cmd and reboot your phone
-
-Instruction To Remove PIN Lock:
-Now, Find Or Create lockscreen.password_type, double-click & change it's value to 65536, Apply changes!
-Now, find lock_pattern_autolock, Delete Record, If doesn't exist, Ignore
-Close & save database
-Run push settings.db.cmd and reboot your phone
-
-Instruction To Remove Password Lock:
-Now, find lockscreen.password_salt, Delete Record
-Now, find lockscreen.password_type, Delete Record
-Close & save database
-Run push settings.db.cmd and reboot your phone
-
-Note : If You See The Gesture Pattern Grid Or Password After Restarting, Don't Worry. Just Try Any Random Pattern Or Password And it Should Unlock.
-
 
 -----------------------------------------------------------------------------------------
 METHOD 3
@@ -111,25 +80,6 @@ INSTRUCTIONS:
 
 Note : If You See The Gesture Pattern Grid Or Password After Restarting, Don't Worry. Just Try Any Random Pattern Or Password And it Should Unlock.
 
-----------------------------------------------------------------------------------------
-
-METHOD 4
-Solution For Everyone Without Recovery Installed - ADB :
-
-What You Need:
-=>A computer running a Linux distro or Windows+Cygwin
-=>USB cable to connect your phone to the PC
-=>Adb installed
-
-How to install adb:
-1. Open Terminal
-2. Type:
-Code:
-sudo apt-get install android-tools-adb
-Hit [Enter]
-3. Follow the instructions until everything is installed.
-
-
 ---------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------
@@ -137,6 +87,6 @@ Hit [Enter]
 ![2-removebg-preview](https://github.com/NexusXpert/-Android-Guide-Hacking-And-Bypassing-Android-Password-Pattern-Face-PI/assets/141859828/36f26a0a-5cb0-4e88-a6cc-016c8a2adf04)
 
 ---------------------------------------------------------------------------------------
-                                 *jai shree ram*
+*jai shree ram*
 ![3571156](https://github.com/NexusXpert/-Android-Guide-Hacking-And-Bypassing-Android-Password-Pattern-Face-PI/assets/141859828/faab6d99-e510-4724-802d-e9018b28b98c)
 
