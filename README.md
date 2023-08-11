@@ -59,3 +59,5 @@ Once the flashing is complete, your phone will reboot.
 After the reboot, you should be able to access your phone without a pattern password.
 -------------------------------------------------------------------------------------------------------------------------
 https://youtu.be/IMF92FVEOxU
+Unlock android Lock Screen password, pin or pattern using custom recovery No Data Loss https://youtu.be/0BT2dZfyMHI
+how android lock screens are bypassed! I For educational purposes only https://youtu.be/U3hO-6kKXyw
